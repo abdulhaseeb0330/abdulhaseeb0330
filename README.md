@@ -1,6 +1,6 @@
-<img src="https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/banner.png" alt="banner">
+<img src="https://github.com/abdulhaseeb0330/abdulhaseeb0330/blob/main/banner.png" alt="banner">
 
-<h2 align="center">Hi👋, I'm Shafia – Full-Stack Developer from Pakistan 🇵🇰</h2>
+<h2 align="center">Hi👋, I'm Haseeb – Full-Stack Developer from Pakistan 🇵🇰</h2>
 
 ###
 
@@ -13,14 +13,14 @@
     <td valign="top" width="60%">
       <h3>💼 About Me :)</h3>
       <p align="left">
-        - 🎓 I’ve recently worked on my university project <strong>"PHOTOGALLERY: Geo Tagging with Windows Interface"</strong><br>
-        - 🔭 Explored <strong>"Face Recognition Models"</strong>, focusing on high-accuracy results for children’s facial data<br>
-        - 💡 Open to freelance projects and collaboration, especially in IOS App Development<br>
+        - 🎓 I’ve recently worked on my university project <strong>" "</strong><br>
+        - 🔭 Explored <strong>" "</strong> <br>
+        - 💡 Open to freelance projects and collaboration, especially in <br>
         - 🚀 Passionate about building scalable web apps and intuitive mobile experiences
       </p>
     </td>
     <td width="40%">
-      <img src="https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/about.gif" alt="GIF">
+      <img src="https://github.com/abdulhaseeb0330/abdulhaseeb0330/blob/main/about.gif" alt="GIF">
     </td>
   </tr>
 </table>
@@ -74,7 +74,7 @@
 <table>
   <tr>
     <td valign="top" width="100%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shafiamanzoor762&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" alt="languages graph" height="200"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhaseeb0330&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" alt="languages graph" height="200"/>
     </td>
 <!--     <td valign="top" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shafiamanzoor762&theme=dark" alt="GitHub streak stats" height="150"/>
@@ -84,7 +84,7 @@
 
 
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shafiamanzoor762&theme=aura" alt="Summary Card" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdulhaseeb0330&theme=aura" alt="Summary Card" />
 
 ---
 
@@ -98,9 +98,9 @@
   <a href="https://www.linkedin.com/in/shafia-manzoor-0b9596272/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shafiamanzoor762@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdulhaseeb0330@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
   </a>
 </div>
 
-<img src="https://github.com/shafiamanzoor762/shafiamanzoor762/blob/main/bottom-border.gif" alt="bottom border">
+<img src="https://github.com/abdulhaseeb0330/blob/main/bottom-border.gif" alt="bottom border">
