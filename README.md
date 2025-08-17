@@ -13,8 +13,8 @@
     <td valign="top" width="60%">
       <h3>💼 About Me :)</h3>
       <p align="left">
-        - 🎓 I’ve recently worked on my university project <strong>" "</strong><br>
-        - 🔭 Explored <strong>" "</strong> <br>
+        - 🎓 I’ve recently worked on my university & self projects including Medical, Data Set, <strong>" "</strong><br>
+        - 🔭 Explored <strong>" Teaching Computer Science --4YEARS"</strong> <br>
         - 💡 Open to freelance projects and collaboration, especially in <br>
         - 🚀 Passionate about building scalable web apps and intuitive mobile experiences
       </p>
