@@ -114,7 +114,7 @@
 
 <h4 align="left">📫 How to reach me:</h4>
 
-###
+### 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/abdulhaseeb0330/" target="_blank">
@@ -124,5 +124,11 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
   </a>
 </div>
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abdulhaseeb0330&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=abdulhaseeb0330&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
 <img src="https://github.com/abdulhaseeb0330/abdulhaseeb0330/blob/main/bottom-border.gif" alt="bottom border">
